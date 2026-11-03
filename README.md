@@ -8,7 +8,7 @@ and lab kits. Staff approve requests and track each loan.
 
 | Name | ID | University email | GitHub |
 |---|---:|---|---|
-| Omar Shibl (team leader) | 231147 | omar.mohamed190@msa.edu.eg | [your GitHub username] |
+| Omar Shibl (team leader) | 231147 | omar.mohamed190@msa.edu.eg | oma452 |
 | Ahmed Walid | 220953 | ahmed.walid5@msa.edu.eg | ahmedwalid00 |
 
 ## User journeys
